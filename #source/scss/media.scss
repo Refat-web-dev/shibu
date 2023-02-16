@@ -637,9 +637,6 @@
     .container_4 {
         max-width: 1200px;
     }
-    .wrapper_4{
-        
-    }
     // .item_5 {
     //     &:nth-child(1) {
     //         .child_5 {
@@ -1485,7 +1482,7 @@
             display: flex;
             justify-content: center;
             align-items: center;
-            background-image: url(/img/icons/web.svg);
+            background-image: url(../img/icons/web.svg);
             background-repeat: no-repeat;
             background-position: 50% 50%;
             background-size: 100% 100%;
@@ -1496,7 +1493,7 @@
             height: 319px;
             border-radius: 50%;
             background: #143D85;
-            background-image: url(/img/icons/spidershiba-img.svg), url(/img/icons/earth.svg);
+            background-image: url(../img/icons/spidershiba-img.svg), url(../img/icons/earth.svg);
             background-size: 60%, contain;
             background-position: center, center;
             background-repeat: no-repeat, no-repeat;
